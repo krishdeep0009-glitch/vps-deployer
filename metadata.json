@@ -1,0 +1,6 @@
+{
+  "name": "Discord VPS Deployer",
+  "description": "A professional manager and Discord bot panel for deploying Docker-based VPS instances with Pterodactyl Panel + Wings sync, custom resource limits, and tmate terminal access.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
