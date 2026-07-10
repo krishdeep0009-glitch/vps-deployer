@@ -24,7 +24,7 @@ A professional full-stack platform consisting of a high-performance Discord Bot 
 ### 1. Clone the Repository
 Clone the codebase and navigate into the root directory:
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/krishdeep0009-glitch/vps-deployer
 cd discord-vps-deployer
 ```
 
